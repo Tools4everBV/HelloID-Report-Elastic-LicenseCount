@@ -43,7 +43,7 @@ The following settings are required to connect to the API.
 
 
 ## Getting help
-> _For more information on what data is available to query from Elastic, see the [Elastic REST API documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html).
+> _For more information on what data is available to query from Elastic, see the [Elastic REST API documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html)_
 
 > _If you need help, feel free to ask questions on our [forum](https://forum.helloid.com)_
 
